@@ -1,0 +1,5 @@
+rocks/
+**.log
+core*
+vgcore*
+vgrind.txt
